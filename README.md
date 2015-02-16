@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data science course John Hopkins
+Data science course John Hopkins University
